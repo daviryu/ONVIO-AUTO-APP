@@ -1,0 +1,5 @@
+{
+    "chrome_debug_port": 9222,
+    "chrome_user_data_dir": "C:\\temp\\chrome_debug",
+    "log_file": "onvio_automation.log"
+}
